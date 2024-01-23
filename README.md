@@ -1,22 +1,24 @@
 <img align="right" width="250px" style="margin-top:-20px" src="/img/Avatar1.png">
 
-<div style="display:inline-block;">
+</br>
+
+<div display="inline-block">
   <h1>Marcos Victor</h1>
-  <a href="https://www.linkedin.com/in/mvss01" target="_blank"style="text-decoration: none; color:transparent;">
-    <img width="60px" src="/img/linkedin.png" alt="linkedin" style="float: left;">
+  <a href="https://www.linkedin.com/in/mvss01">
+    <img align="left" width="60px" src="/img/linkedin.png" alt="linkedin" style="vertical-align:center;">
   </a>
-  <a href="" style="text-decoration: none; color:transparent;">
-    <img width="60px" src="/img/outlook.png" alt="outlook" style="float: left;">
+  <a href="#">
+    <img align="left" width="60px" src="/img/outlook.png" alt="outlook" style="vertical-align:center;">
   </a>
-  <a href="" style="text-decoration: none; color:transparent;">
-    <img width="60px" src="/img/instagram.png" alt="instagram" style="float: left;">
+  <a href="#">
+    <img align="left" width="60px" src="/img/instagram.png" alt="instagram" style="vertical-align:center;">
   </a>
-  <a href="" style="text-decoration: none; color:transparent;">
-    <img width="60px" src="/img/youtube.png" alt="youtube" style="float: left;">
+  <a href="#">
+    <img align="left" width="60px" src="/img/youtube.png" alt="youtube" style="vertical-align:center;">
   </a>
 </div>
 
-
+</br>
 </br>
 </br>
 
@@ -49,12 +51,17 @@ Tenho 19 anos e sou desenvolvedor web. Comecei minha jornada aos 15 anos, explor
 - 👨‍🎓 <strong>Sistemas de informação</strong> - FUMEC - <i>cursando</i>
 
 <p align="center">
-<a href="https://github.com/mvss01">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mvss01&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mvss01&layout=compact&langs_count=8&theme=radical"/>
-</a>
+  <a href="https://github.com/mvss01">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mvss01&show_icons=true&theme=radical"/>&nbsp&nbsp
+  </a>
+  <a href="https://github.com/mvss01">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mvss01&layout=compact&langs_count=8&theme=radical"/>
+  </a>
+
 </p>
 
 <br>
 
-> Na complexidade da vida, a verdadeira coragem não reside na ausência do medo, mas na audácia de avançar mesmo quando as sombras da incerteza pairam sobre nós. É a resiliência que nos impele a enfrentar desafios, a determinação que nos guia através das tempestades, e a ousadia de persistir quando o desconhecido se torna nosso companheiro. Na jornada da coragem, descobrimos que é no confronto com nossos receios que nossa força se forja, e é na persistência em meio às adversidades que revelamos a verdadeira profundidade de nosso caráter.
+<img align="right" width="250px" style="margin-top:-20px" src="/img/Avatar2.png">
+
+> <i>Na complexidade da vida, a verdadeira coragem não reside na ausência do medo, mas na audácia de avançar mesmo quando as sombras da incerteza pairam sobre nós. É a <strong>resiliência</strong> que nos impele a enfrentar desafios, a <strong>determinação</strong> que nos guia através das tempestades, e a <strong>ousadia</strong> de persistir quando o desconhecido se torna nosso companheiro. Na jornada da coragem, descobrimos que é no confronto com nossos receios que nossa força se forja, e é na persistência em meio às adversidades que revelamos a verdadeira profundidade de nosso caráter.</i>
