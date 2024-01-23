@@ -44,7 +44,7 @@ Tenho 19 anos e sou desenvolvedor web. Comecei minha jornada aos 15 anos, explor
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Filezilla](https://img.shields.io/badge/-Filezilla-BF0000?style=flat-square&logo=filezilla&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/-Servidor_Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu_Server-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 
 ### 🎓 Formação
 - 📚 <strong>2° grau completo</strong> - Colégio Tiradentes da Polícia Militar - <i>concluído</i>
