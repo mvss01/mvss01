@@ -50,10 +50,8 @@ Tenho 19 anos e sou desenvolvedor web. Comecei minha jornada aos 15 anos, explor
 - 🌐 <strong>Javascript Developer</strong> - DIO - <i>concluído</i>
 - 👨‍🎓 <strong>Sistemas de informação</strong> - FUMEC - <i>cursando</i>
 
+### ✏️ Na pratica
 <p align="center">
-  <a href="https://github.com/mvss01">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mvss01&show_icons=true&theme=radical"/>&nbsp&nbsp
-  </a>
   <a href="https://github.com/mvss01">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mvss01&layout=compact&langs_count=8&theme=radical"/>
   </a>
