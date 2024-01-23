@@ -2,16 +2,16 @@
 
 <div style="display:inline-block;">
   <h1>Marcos Victor</h1>
-  <a href="https://www.linkedin.com/in/mvss01" target="_blank" style="text-decoration:none;">
+  <a href="https://www.linkedin.com/in/mvss01" target="_blank"style="text-decoration: none; color:transparent;">
     <img width="60px" src="/img/linkedin.png" alt="linkedin" style="float: left;">
   </a>
-  <a href="" style="text-decoration:none;">
+  <a href="" style="text-decoration: none; color:transparent;">
     <img width="60px" src="/img/outlook.png" alt="outlook" style="float: left;">
   </a>
-  <a href="" style="text-decoration:none;">
+  <a href="" style="text-decoration: none; color:transparent;">
     <img width="60px" src="/img/instagram.png" alt="instagram" style="float: left;">
   </a>
-  <a href="" style="text-decoration:none;">
+  <a href="" style="text-decoration: none; color:transparent;">
     <img width="60px" src="/img/youtube.png" alt="youtube" style="float: left;">
   </a>
 </div>
