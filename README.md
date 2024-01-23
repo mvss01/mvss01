@@ -50,7 +50,7 @@ Tenho 19 anos e sou desenvolvedor web. Comecei minha jornada aos 15 anos, explor
 - 🌐 <strong>Javascript Developer</strong> - DIO - <i>concluído</i>
 - 👨‍🎓 <strong>Sistemas de informação</strong> - FUMEC - <i>cursando</i>
 
-### ✏️ Na pratica
+## ✏️ Na pratica
 <p align="center">
   <a href="https://github.com/mvss01">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mvss01&layout=compact&langs_count=8&theme=radical"/>
@@ -60,6 +60,6 @@ Tenho 19 anos e sou desenvolvedor web. Comecei minha jornada aos 15 anos, explor
 
 <br>
 
-<img align="right" width="250px" style="margin-top:-20px" src="/img/Avatar2.png">
+<img align="right" width="200px" style="margin-top:-20px" src="/img/Avatar2.png">
 
 > <i>Na complexidade da vida, a verdadeira coragem não reside na ausência do medo, mas na audácia de avançar mesmo quando as sombras da incerteza pairam sobre nós. É a <strong>resiliência</strong> que nos impele a enfrentar desafios, a <strong>determinação</strong> que nos guia através das tempestades, e a <strong>ousadia</strong> de persistir quando o desconhecido se torna nosso companheiro. Na jornada da coragem, descobrimos que é no confronto com nossos receios que nossa força se forja, e é na persistência em meio às adversidades que revelamos a verdadeira profundidade de nosso caráter.</i>
