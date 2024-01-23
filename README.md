@@ -40,6 +40,7 @@ Tenho 19 anos e sou desenvolvedor web. Comecei minha jornada aos 15 anos, explor
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-007ACC?style=flat-square&logo=express&logoColor=white)
+![EJS](https://img.shields.io/badge/-EJS-B4CA65?style=flat-square&logo=ejs&logoColor=black)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
