@@ -7,13 +7,13 @@
   <a href="https://www.linkedin.com/in/mvss01">
     <img align="left" width="60px" src="/img/linkedin.png" alt="linkedin" style="vertical-align:center;">
   </a>
-  <a href="#">
+  <a href="mailto:marcosvictorss@hotmail.com">
     <img align="left" width="60px" src="/img/outlook.png" alt="outlook" style="vertical-align:center;">
   </a>
-  <a href="#">
+  <a href="https://www.instagram.com/mvss_001/">
     <img align="left" width="60px" src="/img/instagram.png" alt="instagram" style="vertical-align:center;">
   </a>
-  <a href="#">
+  <a href="#" onclick="alert('Em breve')">
     <img align="left" width="60px" src="/img/youtube.png" alt="youtube" style="vertical-align:center;">
   </a>
 </div>
