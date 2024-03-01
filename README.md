@@ -23,9 +23,7 @@
 </br>
 
 ## 👋Fala, Devs!!
-
 Tenho 19 anos e sou desenvolvedor web. Comecei minha jornada aos 15 anos, explorando o mundo do desenvolvimento usando low-code. Atualmente, desenvolvo diversos tipos de sistemas usando diversas tecnologias. Estou sempre buscando novos desafios e aprendizados. Se precisar de mais informações, fique à vontade para me perguntar!
-
 
 ### 🖥️ Tecnologias e Ferramentas
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -38,7 +36,9 @@ Tenho 19 anos e sou desenvolvedor web. Comecei minha jornada aos 15 anos, explor
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 ![EJS](https://img.shields.io/badge/-EJS-B4CA65?style=flat-square&logo=ejs&logoColor=black)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
@@ -46,12 +46,16 @@ Tenho 19 anos e sou desenvolvedor web. Comecei minha jornada aos 15 anos, explor
 ![Filezilla](https://img.shields.io/badge/-Filezilla-BF0000?style=flat-square&logo=filezilla&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu_Server-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 
-### 🎓 Formação
+### 🎓 Formações
 - 📚 <strong>2° grau completo</strong> - Colégio Tiradentes da Polícia Militar - <i>concluído</i>
 - 💻 <strong>Informática para internet</strong> - SENAI - <i>concluído</i>
 - 🐱‍💻 <strong>Programação Full Stack</strong> - Dev Samurai - <i>concluído</i>
 - 🌐 <strong>Javascript Developer</strong> - DIO - <i>concluído</i>
 - 👨‍🎓 <strong>Sistemas de informação</strong> - FUMEC - <i>cursando</i>
+
+### 🎯 Objetivos
+Desde que comecei a estudar programação, percebi que, além de programar, tenho paixão por resolver problemas. Não há nada mais satisfatório do que ver que minha solução resolveu o problema de alguém. Por isso, atualmente, meu foco está em SaaS e em alcançar o máximo de pessoas. Apesar disso, também aprecio muito a ideia de trabalhar em uma software house, devido à variedade tanto de tecnologias quanto de experiências. Em resumo, meu objetivo profissional é ter uma empresa ou fazer parte de uma equipe que trabalha na "linha de frente" de projetos.
+Academicamente, meu objetivo é atingir fluência em inglês, me graduar e ou realizar uma pós-graduação em uma universidade no exterior e expandir meu conhecimento o máximo possível.
 
 ## ✏️ Na pratica
 <p align="center">
