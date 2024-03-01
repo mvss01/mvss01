@@ -1,9 +1,9 @@
-<img align="right" width="250px" style="margin-top:-20px" src="/img/Avatar1.png">
+<!-- <img align="right" width="250px" style="margin-top:-20px" src="/img/Avatar1.png"> -->
 
-</br>
+<!-- </br> -->
 
 <div display="inline-block">
-  <h1 style="border-bottom: 0" >Marcos Victor</h1>
+  <h1>Marcos Victor</h1>
   <a href="https://www.linkedin.com/in/mvss01">
     <img align="left" width="60px" src="/img/linkedin.png" alt="linkedin" style="vertical-align:center;">
   </a>
@@ -54,7 +54,7 @@ Tenho 19 anos e sou desenvolvedor web. Comecei minha jornada aos 15 anos, explor
 - 👨‍🎓 <strong>Sistemas de informação</strong> - FUMEC - <i>cursando</i>
 
 ### 🎯 Objetivos
-Desde que comecei a estudar programação, percebi que, além de programar, tenho paixão por resolver problemas. Não há nada mais satisfatório do que ver que minha solução resolveu o problema de alguém. Por isso, atualmente, meu foco está em SaaS e em alcançar o máximo de pessoas. Apesar disso, também aprecio muito a ideia de trabalhar em uma software house, devido à variedade tanto de tecnologias quanto de experiências. Em resumo, meu objetivo profissional é ter uma empresa ou fazer parte de uma equipe que trabalha na "linha de frente" de projetos.
+Desde que comecei a estudar programação, percebi que, além de programar, também sou apaixonado por resolver problemas. Não há nada mais satisfatório do que ver que minha solução resolveu o problema de alguém. Por isso, atualmente, meu foco está em SaaS e em alcançar o máximo de pessoas. Apesar disso, também aprecio muito a ideia de trabalhar em uma software house, devido à variedade tanto de tecnologias quanto de experiências. Em resumo, meu objetivo profissional é ter uma empresa ou fazer parte de uma equipe que trabalha na "linha de frente" de projetos.
 Academicamente, meu objetivo é atingir fluência em inglês, me graduar e ou realizar uma pós-graduação em uma universidade no exterior e expandir meu conhecimento o máximo possível.
 
 ## ✏️ Na pratica
