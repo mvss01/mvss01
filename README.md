@@ -3,7 +3,7 @@
 </br>
 
 <div display="inline-block">
-  <h1>Marcos Victor</h1>
+  <h1 style="border-bottom: 0" >Marcos Victor</h1>
   <a href="https://www.linkedin.com/in/mvss01">
     <img align="left" width="60px" src="/img/linkedin.png" alt="linkedin" style="vertical-align:center;">
   </a>
