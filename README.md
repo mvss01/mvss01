@@ -57,7 +57,7 @@ Tenho 19 anos e sou desenvolvedor web. Comecei minha jornada aos 15 anos, explor
 Desde que comecei a estudar programação, percebi que, além de programar, também sou apaixonado por resolver problemas. Não há nada mais satisfatório do que ver que minha solução resolveu o problema de alguém. Por isso, atualmente, meu foco está em SaaS e em alcançar o máximo de pessoas. Apesar disso, também aprecio muito a ideia de trabalhar em uma software house, devido à variedade tanto de tecnologias quanto de experiências. Em resumo, meu objetivo profissional é ter uma empresa ou fazer parte de uma equipe que trabalha na "linha de frente" de projetos.
 Academicamente, meu objetivo é atingir fluência em inglês, me graduar e ou realizar uma pós-graduação em uma universidade no exterior e expandir meu conhecimento o máximo possível.
 
-## ✏️ Na pratica
+## ✏️ Na prática
 <p align="center">
   <a href="https://github.com/mvss01">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mvss01&layout=compact&langs_count=8&theme=radical"/>
