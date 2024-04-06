@@ -51,7 +51,7 @@ Tenho 19 anos e sou desenvolvedor web. Comecei minha jornada aos 15 anos, explor
 - 💻 <strong>Informática para internet</strong> - SENAI - <i>concluído</i>
 - 🐱‍💻 <strong>Programação Full Stack</strong> - Dev Samurai - <i>concluído</i>
 - 🌐 <strong>Javascript Developer</strong> - DIO - <i>concluído</i>
-- 👨‍🎓 <strong>Sistemas de informação</strong> - FUMEC - <i>cursando</i>
+- 👨‍🎓 <strong>Engenharia de Software</strong> - UNINTER - <i>cursando</i>
 
 ### 🎯 Objetivos
 Desde que comecei a estudar programação, percebi que, além de programar, também sou apaixonado por resolver problemas. Não há nada mais satisfatório do que ver que minha solução resolveu o problema de alguém. Por isso, atualmente, meu foco está em SaaS e em alcançar o máximo de pessoas. Apesar disso, também aprecio muito a ideia de trabalhar em uma software house, devido à variedade tanto de tecnologias quanto de experiências. Em resumo, meu objetivo profissional é ter uma empresa ou fazer parte de uma equipe que trabalha na "linha de frente" de projetos.
