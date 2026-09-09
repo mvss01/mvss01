@@ -22,30 +22,42 @@
 </br>
 </br>
 
-## 👋Fala, Devs!!
-Tenho 19 anos e sou desenvolvedor web. Comecei minha jornada aos 15 anos, explorando o mundo do desenvolvimento usando low-code. Atualmente, desenvolvo diversos tipos de sistemas usando diversas tecnologias. Estou sempre buscando novos desafios e aprendizados. Se precisar de mais informações, fique à vontade para me perguntar!
+## 👋 Fala, devs!
+
+Sou Marcos Victor, tenho **22 anos** e sou **desenvolvedor full stack e mobile**. Comecei minha jornada aos 15 anos com low-code e hoje desenvolvo plataformas SaaS B2B e aplicações web e mobile com **JavaScript, TypeScript, Node.js, React, Next.js e React Native**.
+
+Minha experiência inclui aplicações com funcionamento offline, monitoramento IoT em tempo real, fluxos comerciais com assinatura eletrônica e automação de CI/CD. Também trabalho com IA agêntica, engenharia de prompts e gestão de contexto com Obsidian. Gosto de transformar regras de negócio complexas em soluções práticas, com atenção à experiência do usuário, segurança e qualidade de software.
 
 ### 🖥️ Tecnologias e Ferramentas
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.JS-339933?style=flat-square&logo=node.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![EJS](https://img.shields.io/badge/-EJS-B4CA65?style=flat-square&logo=ejs&logoColor=black)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Filezilla](https://img.shields.io/badge/-Filezilla-BF0000?style=flat-square&logo=filezilla&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu_Server-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![MQTT](https://img.shields.io/badge/-MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
+
+- **Full stack e interfaces:** Node.js, Express, React, Next.js, React Native e EJS; HTML/CSS, Sass, Bootstrap, Tailwind CSS, Material UI, styled-components, StyleSheet e prototipação com Figma.
+- **Estado e formulários:** Redux Toolkit, Zustand, Context API, TanStack Query, React Hook Form, Zod e Yup.
+- **Dados e persistência:** MySQL, PostgreSQL/Supabase, Sequelize, SQLite e Realm; modelagem, migrações, funcionamento offline e sincronização.
+- **Mobile e mídia:** Android/iOS, React Navigation, deep links, notificações Firebase/Notifee, geolocalização, câmera, compressão de imagens e vídeos, FFmpeg, PDFs e Canvas/Konva.
+- **Inteligência artificial:** engenharia de prompts, orquestração de agentes e gestão de contexto com Obsidian; desenvolvimento assistido por IA, integração com análise de imagens/documentos e extração estruturada de dados com OCR.
+- **Integrações e segurança:** APIs REST, Axios, WebSockets/Socket.IO, MQTT com TLS e certificados digitais, JWT, controle de acesso por perfis, webhooks e assinatura eletrônica via Clicksign.
+- **DevOps:** Git/GitHub, CI/CD com GitHub Actions, Docker/GHCR, Linux, Caddy e HTTPS; gestão de domínios e portas, imagens versionadas, deploy, verificações de saúde e rollback.
+- **Arquitetura e qualidade:** POO, arquitetura modular e multi-tenant, testes com Jest, Vitest, Testing Library e Playwright; análise de vulnerabilidades com Trivy.
+- **Ferramentas e análise de dados:** VS Code, Postman, Android Studio, Xcode e FileZilla; Excel, SQL e Python com Pandas, Seaborn e NumPy.
+
+### 🚀 Projetos e experiência
+
+- **Rastrom:** plataforma SaaS B2B com monitoramento IoT via MQTT seguro e Socket.IO, gestão e rastreabilidade da produção de ARLA 32, propostas, contratos, assinatura eletrônica e cobranças. Desenvolvimento full stack e pipelines de CI/CD com imagens Docker, implantação em VPS Linux e rollback.
+- **AppVisto Mobile e Link Web:** aplicações para vistorias veiculares, com operação offline e sincronização no mobile, captura de fotos e vídeos, geolocalização, assinaturas, OCR e integração com serviços de IA para análise de imagens e documentos.
+- **Distill:** extensão autoral para Visual Studio Code.
 
 ### 🎓 Formações
 - 📚 <strong>2° grau completo</strong> - Colégio Tiradentes da Polícia Militar - <i>concluído</i>
