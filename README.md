@@ -60,7 +60,6 @@ Minha experiência inclui aplicações com funcionamento offline, monitoramento 
 - **Distill:** extensão autoral para Visual Studio Code.
 
 ### 🎓 Formações
-- 📚 <strong>2° grau completo</strong> - Colégio Tiradentes da Polícia Militar - <i>concluído</i>
 - 💻 <strong>Informática para internet</strong> - SENAI - <i>concluído</i>
 - 🐱‍💻 <strong>Programação Full Stack</strong> - Dev Samurai - <i>concluído</i>
 - 🌐 <strong>Javascript Developer</strong> - DIO - <i>concluído</i>
