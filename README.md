@@ -4,13 +4,13 @@
 
 <div display="inline-block">
   <h1>Marcos Victor</h1>
-  <a href="https://www.linkedin.com/in/mvss01">
+  <a href="https://www.linkedin.com/in/marcosvictorss">
     <img align="left" width="60px" src="/img/linkedin.png" alt="linkedin" style="vertical-align:center;">
   </a>
   <a href="mailto:marcosvictorss@hotmail.com">
     <img align="left" width="60px" src="/img/outlook.png" alt="outlook" style="vertical-align:center;">
   </a>
-  <a href="https://www.instagram.com/mvss_001/">
+  <a href="https://www.instagram.com/marcozitor/">
     <img align="left" width="60px" src="/img/instagram.png" alt="instagram" style="vertical-align:center;">
   </a>
   <a href="#" onclick="alert('Em breve')">
